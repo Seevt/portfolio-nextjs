@@ -15,7 +15,7 @@ export default function Home() {
   const t = useTranslations("basics");
 
   return (
-    <>
+    <div>
       <header className="relative isolate flex min-h-[60svh] flex-col space-y-6 overflow-x-hidden bg-black-secondary pt-16">
         <div className="hero-content center box-wrapper flex h-full w-full flex-col justify-between space-y-4">
           <div className="flex justify-between">
@@ -71,6 +71,6 @@ export default function Home() {
           </section>
         </div>
       </div>
-    </>
+    </div>
   );
 }
