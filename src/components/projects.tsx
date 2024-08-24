@@ -9,11 +9,22 @@ function Projects() {
         <ul className="grid grid-cols-[repeat(auto-fit,_minmax(min(100%,_200px),_1fr))] gap-4">
           {t.raw("list").map((project: any) => (
             <li key={project.name}>
-              <article className="rounded-custom border-outline-color flex h-full flex-col justify-between space-y-4 border p-3">
+              <article className="flex h-full flex-col justify-between space-y-4 rounded-custom border border-outline-color p-3">
                 <div className="space-y-2">
-                  <h3 className="heading-3-humane text-lg font-bold">
+                  {project.isActive ? (
+                    <h3 className="heading-3-humane text-lg font-bold hover:underline">
+                      <a href={project.url} className="w-fit" target="_blank">
+                        {project.name}
+                      </a>
+                    </h3>
+                  ) : (
+                    <h3 className="heading-3-humane text-lg font-bold">
+                      {project.name}
+                    </h3>
+                  )}
+                  {/* <h3 className="heading-3-humane text-lg font-bold hover:underline">
                     {project.name}
-                  </h3>
+                  </h3> */}
                   <p className="text-sm font-light">{project.description}</p>
                 </div>
                 <ul className="tags my-auto flex flex-wrap gap-2 pt-12 text-sm font-extralight *:bg-zinc-600/40">
