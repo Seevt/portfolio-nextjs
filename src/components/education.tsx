@@ -22,7 +22,7 @@ function Education() {
       <ul className="space-y-4">
         {t.raw("list").map((item: EducationItem) => {
           return (
-            <li>
+            <li key={item.area}>
               <article className="space-y-2 max-md:space-y-3">
                 <header className="flex items-center justify-between">
                   <h3 className="heading-3-geist text-fluid-md max-md:text-fluid-base">
@@ -61,7 +61,7 @@ function Certificates() {
       <ul className="mt-4 space-y-4">
         {t.raw("list").map((item: CertificatesItem) => {
           return (
-            <li>
+            <li key={item.name}>
               <article className="space-y-2 max-md:space-y-3">
                 <header className="flex items-center justify-between">
                   <h3 className="heading-3-geist text-fluid-md max-md:text-fluid-base">
