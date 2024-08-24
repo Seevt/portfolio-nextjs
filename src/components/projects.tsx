@@ -22,9 +22,7 @@ function Projects() {
                       {project.name}
                     </h3>
                   )}
-                  {/* <h3 className="heading-3-humane text-lg font-bold hover:underline">
-                    {project.name}
-                  </h3> */}
+
                   <p className="text-sm font-light">{project.description}</p>
                 </div>
                 <ul className="tags my-auto flex flex-wrap gap-2 pt-12 text-sm font-extralight *:bg-zinc-600/40">
