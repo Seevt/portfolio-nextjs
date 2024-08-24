@@ -1,0 +1,261 @@
+{
+  "basics": {
+    "name": "David Figuera",
+    "alias": "Seevt",
+    "label": "Frontend Developer",
+    "image": "/me.webp",
+    "email": "daavidjesuus2019@gmail.com",
+    "phone": "+34 611625243",
+    "url": "https://seevt.dev",
+    "about": {
+      "title": "About Me",
+      "summary": "Dynamic and detail-oriented Front-End Developer with proven experience in utilizing frameworks such as Vue.js, React.js, and Svelte. Known for delivering high-impact web applications that enhance user engagement through intuitive and aesthetically pleasing user interfaces. Demonstrates a strong commitment to continuously advancing technical skills in line with the latest industry trends."
+    },
+    "location": {
+      "postalCode": "18015",
+      "city": "Granada",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Seevt",
+        "url": "https://github.com/Seevt"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Seevt",
+        "url": "https://linkedin.com/in/david-jesús-figuera-marquez-33a593261"
+      }
+    ]
+  },
+
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "position": "Front-end Developer",
+        "company": "Dimpoint",
+        "startDate": "09/2023",
+        "endDate": "",
+        "stillWorking": "Present",
+
+        "summary": {
+          "main": "In my current role at Dimpoint Studios, I am working on a project to completely revamp and implement an Illustrator design for the company's portfolio. My focus is on using Nuxt and advanced CSS techniques to develop a responsive and visually appealing user interface. Previously, In this position, I played a key role in developing solutions using Vue 3, GSAP, Tailwind for the development of Aizhak Coffee:",
+          "extra": {
+            "bullet_points": [
+              "Collaborated closely with the designer, product manager, marketing, and other developers.",
+              "Translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
+              "I implemented complex animations using GSAP and the Vue animation API."
+            ]
+          }
+        }
+      },
+
+      {
+        "position": "Front-end Developer",
+        "company": "Deduce Data Solutions",
+        "stillWorking": "",
+        "startDate": "06/2022",
+        "endDate": "08/2023",
+        "summary": {
+          "main": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js and Storyblok CMS. In this project, I received a design from Figma to translate into code and enhance with additional dynamics such as 3D graphics libraries. I implemented a pagination system for the blog and, utilizing the Storyblok API and developed a multi-language system to support various languages.",
+          "extra": {
+            "bullet_points": []
+          }
+        }
+      },
+
+      {
+        "position": "Jr. Front-end Developer",
+        "company": "Freelance",
+        "startDate": "03/2021",
+        "endDate": "01/2022",
+        "stillWorking": "",
+        "summary": {
+          "main": "During my time as a freelance front-end developer, I led and contributed to multiple impactful projects that showcased my expertise in modern web technologies and user experience design. Highlights of my work include:",
+          "extra": {
+            "bullet_points": [
+              "Rebranded a website by implementing a new color scheme and CSS theming system. Ensured consistent and appealing visual indentity across all pages and improved the user experience and accesibility.",
+              "Successfully migrated the existing church website to Subsplash CMS, redesigned and organized information as per the client’s requirements, enhancing clarity and user navigation.",
+              "I added a events, email and calendar system consuming the Subsplash API’s.",
+              "Developed a social media app for food enthusiasts improving accessibility. Integrated Firebase for seamless data management and real-time updates."
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  "education": {
+    "title": "Education",
+    "list": [
+      {
+        "institution": "Univeristy of Granada",
+        "url": "https://www.ugr.es/",
+        "area": "Degree in Chemistry",
+        "startDate": null,
+        "endDate": "06/2023"
+      },
+      {
+        "institution": "IES Pedro Soto de Rojas",
+        "url": "https://iespedrosoto.es/",
+        "area": "Bachelors in Pure Sciences",
+        "startDate": null,
+        "endDate": "06/2019"
+      }
+    ]
+  },
+
+  "certificates": {
+    "list": [
+      {
+        "name": "Web Development with Vue 3",
+        "date": "01/2023",
+        "issuer": "ZeroToMastery",
+        "url": "https://zerotomastery.io/"
+      },
+      {
+        "name": "JavaScript Structures and Algorithms",
+        "date": "11/2022",
+        "issuer": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/Seevt"
+      },
+      {
+        "name": "Responsive Web Design",
+        "studyType": "Certificate",
+        "date": "11/2023",
+        "issuer": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/Seevt"
+      }
+    ]
+  },
+
+  "skills": {
+    "title": "Skills",
+    "list": [
+      {
+        "name": "HTML",
+        "level": "Master"
+      },
+      {
+        "name": "CSS",
+        "level": "Master"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master"
+      },
+
+      {
+        "name": "TypeScript",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Vue/Nuxt.js",
+        "level": "Avanzado"
+      },
+
+      {
+        "name": "Svelte/SvelteKit.js",
+        "level": "Medio"
+      },
+      {
+        "name": "React",
+        "level": "Medio"
+      },
+      {
+        "name": "Astro",
+        "level": "Basico"
+      },
+
+      {
+        "name": "Firebase",
+        "level": "Medio"
+      },
+      {
+        "name": "OpenAI API",
+        "level": "Basico"
+      },
+      {
+        "name": "SASS",
+        "level": "Basico"
+      },
+      {
+        "name": "StoryBlok CMS",
+        "level": "Medio"
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado"
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "list": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "B2"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "For more information, visit:",
+    "list": [
+      {
+        "name": "Aizhak Coffee",
+        "isActive": true,
+        "description": "Aizhak's Coffee Experience website is an interactive platform designed to showcase Aizhak's expertise in coffee",
+        "highlights": ["GSAP", "Vue.js", "Tailwind"],
+        "url": "https://aizhak.com/"
+      },
+      {
+        "name": "Sanctuary Christian Center",
+        "isActive": true,
+        "description": "This website highlights the church mission, values, and community activities, inviting visitors to engage in worship and fellowship.",
+        "highlights": ["JS", "Subsplash", "Headless CMS"],
+        "url": "https://thesanctuarychristiancenter.snappages.site/"
+      },
+      {
+        "name": "Deduce Data Solutions",
+        "isActive": true,
+        "description": "Company's Website and Newsletter",
+        "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
+        "url": "https://deducedata.solutions/es/products"
+      },
+      {
+        "name": "QuizMeGPT",
+        "isActive": true,
+        "description": "Interactive Web App that generates quizes about your prefered topics using AI",
+        "highlights": ["CSS", "Vue", "IA", "Firebase"],
+        "url": "https://quizmegpt.seevt.dev",
+        "github": "https://quizmegpt.seevt.dev"
+      },
+      {
+        "name": "Svelte Weather",
+        "isActive": true,
+        "description": "Weather app with Interactive background",
+        "highlights": ["Tailwind", "Svelte", "WeatherAPI"],
+        "url": "https://weather.seevt.dev"
+      },
+      {
+        "name": "React Tetris",
+        "isActive": true,
+        "description": "Recreating the classic Tetris Game using React",
+        "highlights": ["Styled Comps", "React", "Game"],
+        "url": "https://tetris.seevt.dev/"
+      }
+    ]
+  }
+}
