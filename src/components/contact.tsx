@@ -72,6 +72,7 @@ function Contact() {
         <li className="flex cursor-pointer rounded-[0.25rem] border border-outline-color transition-colors hover:bg-zinc-600/40">
           <a
             href={portfolio_urls[locale]}
+            title="Descargar Curriculum"
             target="_blank"
             className="p-2"
             download
