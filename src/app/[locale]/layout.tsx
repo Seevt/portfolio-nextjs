@@ -11,6 +11,7 @@ import type { Metadata } from "next";
 import LangSwitcher from "@/components/langSwitcher";
 import { Locale } from "@/config";
 import Footer from "@/components/footer";
+import Mouseflow from "@/components/mouseflow";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -82,6 +83,7 @@ export default async function LocaleLayout({
           </NextIntlClientProvider>
         </main>
         <Footer />
+        <Mouseflow />
       </body>
     </html>
   );
