@@ -7,6 +7,13 @@
     "email": "daavidjesuus2019@gmail.com",
     "phone": "+34 611625243",
     "url": "https://seevt.dev",
+    "contact_tooltips": {
+      "mail": "Send mail to David",
+      "phone": "Call Me",
+      "GitHub": "Go to David's GitHub Profile",
+      "LinkedIn": "Go to David's LinkedIn Profile",
+      "download": "Download Resume"
+    },
     "about": {
       "title": "About Me",
       "summary": "Dynamic and detail-oriented Front-End Developer with proven experience in utilizing frameworks such as Vue.js, React.js, and Svelte. Known for delivering high-impact web applications that enhance user engagement through intuitive and aesthetically pleasing user interfaces. Demonstrates a strong commitment to continuously advancing technical skills in line with the latest industry trends."

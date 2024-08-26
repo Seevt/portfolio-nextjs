@@ -7,6 +7,13 @@
     "email": "daavidjesuus2019@gmail.com",
     "phone": "+34 611625243",
     "url": "https://seevt.dev",
+    "contact_tooltips": {
+      "mail": "Envíame un Correo",
+      "phone": "Llámame",
+      "GitHub": "Visita mi perfil de GitHub",
+      "LinkedIn": "Visita mi perfil de LinkedIn",
+      "download": "Descargar Curriculum Vitae"
+    },
     "about": {
       "title": "Sobre mí",
       "summary": "Desarrollador Front-End flexible y detallista con experiencia comprobada en la utilización de frameworks como Vue.js, React.js y Svelte. Reconocido por entregar aplicaciones web de alto impacto que mejoran la experiencia del usuario mediante interfaces intuitivas y estéticamente agradables. Constantemente actualizandome con las ultimas tendencias tecnologicas para mejorar mis habilidades y ofrecer mejores soluciones"
