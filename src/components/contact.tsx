@@ -5,7 +5,9 @@ import GitHub from "@/components/icons/github";
 
 type SocialIcon = Record<string, string | any>;
 
+import { useLocale } from "next-intl";
 import { useTranslations } from "next-intl";
+import Download from "./icons/download";
 
 function Contact() {
   const t = useTranslations("basics");
@@ -14,10 +16,19 @@ function Contact() {
     GitHub,
     LinkedIn
   };
+
+  const locale = useLocale();
+
+  const portfolio_urls: Record<string, string> = {
+    es: "https://utfs.io/f/81268c31-96b6-4b0d-8eb8-4c7c3d78f03d-4oiok8.pdf",
+    en: "https://utfs.io/f/449fafa6-3002-499e-9413-cdb43d42c286-sfjao.pdf"
+  };
+
+  console.log(locale);
   return (
     <>
       <ul className="flex gap-1">
-        <li className="border-outline-color flex cursor-pointer rounded-[0.25rem] border transition-colors hover:bg-zinc-600/40">
+        <li className="flex cursor-pointer rounded-[0.25rem] border border-outline-color transition-colors hover:bg-zinc-600/40">
           <a
             className="p-2"
             href={`mailto:${t("email")}`}
@@ -29,7 +40,7 @@ function Contact() {
           </a>
         </li>
 
-        <li className="border-outline-color flex cursor-pointer rounded-[0.25rem] border transition-colors hover:bg-zinc-600/40">
+        <li className="flex cursor-pointer rounded-[0.25rem] border border-outline-color transition-colors hover:bg-zinc-600/40">
           <a
             className="p-2"
             href={`tel:${t("phone")}`}
@@ -43,7 +54,7 @@ function Contact() {
 
           return (
             <li
-              className="border-outline-color flex cursor-pointer rounded-[0.25rem] border transition-colors hover:bg-zinc-600/40"
+              className="flex cursor-pointer rounded-[0.25rem] border border-outline-color transition-colors hover:bg-zinc-600/40"
               key={index}
             >
               <a
@@ -58,6 +69,16 @@ function Contact() {
             </li>
           );
         })}
+        <li className="flex cursor-pointer rounded-[0.25rem] border border-outline-color transition-colors hover:bg-zinc-600/40">
+          <a
+            href={portfolio_urls[locale]}
+            target="_blank"
+            className="p-2"
+            download
+          >
+            <Download />
+          </a>
+        </li>
       </ul>
     </>
   );
