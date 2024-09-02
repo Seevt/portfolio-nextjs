@@ -11,7 +11,7 @@ import type { Metadata } from "next";
 import LangSwitcher from "@/components/langSwitcher";
 import { Locale } from "@/config";
 import Footer from "@/components/footer";
-import Mouseflow from "@/components/mouseflow";
+import Mouseflow from "@/scripts/mouseflow";
 
 const inter = Inter({ subsets: ["latin"] });
 
