@@ -19,9 +19,8 @@ export default function LocaleSwitcher({ locale }: { locale: Locale }) {
   const changeLocale = (sentLocale: Locale) => {
     const newLocale = sentLocale as Locale;
 
-    setOptimisticLocale(newLocale);
-
     startTransition(() => {
+      setOptimisticLocale(newLocale);
       // ...if the user chose Arabic ("ar-eg"),
       // router.replace() will prefix the pathname
       // with this `newLocale`, effectively changing
