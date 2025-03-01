@@ -240,14 +240,14 @@
         "isActive": true,
         "description": "Este sitio web destaca la misión, los valores y las actividades comunitarias del centro, invitando a los visitantes a participar en la adoración y la comunión.",
         "highlights": ["JS", "Subsplash", "Headless CMS"],
-        "url": "https://thesanctuarychristiancenter.snappages.site/"
+        "url": "https://sanctuarycc.com/"
       },
       {
         "name": "Deduce Data Solutions",
         "isActive": true,
         "description": "Recreación de la página web de la compañia. Rediseño y migrado de tecnologias.",
         "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
-        "url": "https://deducedata.solutions/es/products"
+        "url": "https://deducedata.solutions"
       },
       {
         "name": "QuizMeGPT",
