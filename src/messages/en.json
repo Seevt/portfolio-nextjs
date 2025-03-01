@@ -232,14 +232,14 @@
         "isActive": true,
         "description": "This website highlights the church mission, values, and community activities, inviting visitors to engage in worship and fellowship.",
         "highlights": ["JS", "Subsplash", "Headless CMS"],
-        "url": "https://thesanctuarychristiancenter.snappages.site/"
+        "url": "https://sanctuarycc.com/"
       },
       {
         "name": "Deduce Data Solutions",
         "isActive": true,
         "description": "Company's Website and Newsletter",
         "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
-        "url": "https://deducedata.solutions/es/products"
+        "url": "https://deducedata.solutions/"
       },
       {
         "name": "QuizMeGPT",
