@@ -20,8 +20,8 @@ function Contact() {
   const locale = useLocale();
 
   const portfolio_urls: Record<string, string> = {
-    es: "https://utfs.io/f/81268c31-96b6-4b0d-8eb8-4c7c3d78f03d-4oiok8.pdf",
-    en: "https://utfs.io/f/449fafa6-3002-499e-9413-cdb43d42c286-sfjao.pdf"
+    es: "https://vqys77vrep.ufs.sh/f/JaZp4qRRVgtT7L4PDYMB2qVfLQ6WM8FPces01bdhSAtUEZYT",
+    en: "https://vqys77vrep.ufs.sh/f/JaZp4qRRVgtTE4DRcr72RmVyWfgPXvQBJ8brAuFqGxhdSNwo"
   };
 
   return (
