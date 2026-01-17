@@ -56,7 +56,7 @@ function Experience() {
                     {company}
                   </h4>
                   <div className="space-y-3 font-light">
-                    <p>{summary.main}</p>
+                    <p className="whitespace-pre-line">{summary.main}</p>
                     <ul className="grid list-outside list-[square] flex-col gap-4">
                       {summary.extra.bullet_points.map((item: string) => (
                         <li className="ml-8" key={item}>
