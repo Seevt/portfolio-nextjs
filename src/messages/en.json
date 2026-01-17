@@ -42,19 +42,31 @@
     "title": "Experience",
     "jobs": [
       {
+         "position": "Sr. Front-end Developer",
+        "company": "Indra",
+        "startDate": "09/2024",
+        "endDate": "",
+        "stillWorking": "Present",
+        
+        "summary": {
+          "main": "I joined the team as a frontend developer, where my responsibilities included fixing market logic, implementing backend APIs, and utilizing in-house component libraries to layout views and screens. As I progressed in the role, the complexity of my tasks increased significantly, eventually leading to opportunities where I took the lead in coordinating crossfunctional teams, including backend developers and functional analysts who interfaced directly with clients, to ensure project requirements were properly aligned and executed. I expanded my technical expertise by actively participating in CI/CD pipeline management across development, pre-production, and production environments using Jenkins. \n\nCurrently, my role has evolved to include presenting technical proposals for addressing existing logic and design challenges, mentoring and onboarding new team members, and serving as a key technical resource for the frontend development initiatives within the organization.",
+          "extra": {
+            "bullet_points": [
+            ]
+          }
+        }
+      },
+      {
         "position": "Front-end Developer",
         "company": "Dimpoint",
         "startDate": "09/2023",
-        "endDate": "",
-        "stillWorking": "Present",
+        "endDate": "09/2024",
+        "stillWorking": "",
 
         "summary": {
-          "main": "In my current role at Dimpoint Studios, I am working on a project to completely revamp and implement an Illustrator design for the company's portfolio. My focus is on using Nuxt and advanced CSS techniques to develop a responsive and visually appealing user interface. Previously, In this position, I played a key role in developing solutions using Vue 3, GSAP, Tailwind for the development of Aizhak Coffee:",
+          "main": "At Dimpoint Studios, I engineered web applications using Vue 3, Nuxt.js, and component-driven architecture within an Agile environment. My work included developing reusable component libraries, implementing state management and API integration, optimizing performance through code splitting and lazy loading, and maintaining CI/CD pipelines while ensuring accessibility compliance and code quality standards. I collaborated closely with design, product, and marketing teams through sprint planning, code reviews, and iterative development cycles.",
           "extra": {
             "bullet_points": [
-              "Collaborated closely with the designer, product manager, marketing, and other developers.",
-              "Translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
-              "I implemented complex animations using GSAP and the Vue animation API."
             ]
           }
         }
@@ -67,7 +79,7 @@
         "startDate": "06/2022",
         "endDate": "08/2023",
         "summary": {
-          "main": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js and Storyblok CMS. In this project, I received a design from Figma to translate into code and enhance with additional dynamics such as 3D graphics libraries. I implemented a pagination system for the blog and, utilizing the Storyblok API and developed a multi-language system to support various languages.",
+          "main": "Developed the company's full-stack website from the ground up using Vue.js, Nuxt.js, and Storyblok CMS with headless architecture. I engineered custom features including dynamic pagination systems and internationalization (i18n) for multi-language support, leveraging Storyblok's RESTful API and third-party CMS integrations to deliver a scalable, performant web application. Working from Figma designs, I translated UI/UX specifications into production code while enhancing user engagement through Three.js 3D graphics integration.",
           "extra": {
             "bullet_points": []
           }
@@ -81,13 +93,9 @@
         "endDate": "01/2022",
         "stillWorking": "",
         "summary": {
-          "main": "During my time as a freelance front-end developer, I led and contributed to multiple impactful projects that showcased my expertise in modern web technologies and user experience design. Highlights of my work include:",
+          "main": "Delivered modern, responsive web solutions for diverse clients, specializing in Vue, React, Firebase, and API integration. My work spanned full-stack application development with real-time data synchronization, complete CMS implementations, website migrations and comprehensive UI/UX redesigns focused on accessibility compliance and brand consistency. I architected scalable theming systems, developed custom integrations with third-party APIs, and built production-ready applications serving active user communities.",
           "extra": {
             "bullet_points": [
-              "Rebranded a website by implementing a new color scheme and CSS theming system. Ensured consistent and appealing visual indentity across all pages and improved the user experience and accesibility.",
-              "Successfully migrated the existing church website to Subsplash CMS, redesigned and organized information as per the client’s requirements, enhancing clarity and user navigation.",
-              "I added a events, email and calendar system consuming the Subsplash API’s.",
-              "Developed a social media app for food enthusiasts improving accessibility. Integrated Firebase for seamless data management and real-time updates."
             ]
           }
         }
