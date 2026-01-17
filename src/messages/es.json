@@ -42,23 +42,35 @@
     "title": "Experiencia",
     "jobs": [
       {
+        "position": "Desarrollador Frontend Senior",
+        "company": "Indra",
+        "stillWorking": "Presente",
+        "startDate": "09/2024",
+        "endDate": "",
+        "remote": true,
+        "work_type": "Contract",
+        "remote_string": "Remote",
+
+        "summary": {
+          "main": "Me incorporé al equipo como desarrollador frontend, donde mis responsabilidades incluían corregir la lógica de mercado, implementar APIs del backend y utilizar bibliotecas de componentes internas para maquetar vistas y pantallas. A medida que avancé en el puesto, la complejidad de mis tareas aumentó significativamente, lo que finalmente me llevó a oportunidades donde asumí el liderazgo en la coordinación de equipos multifuncionales, incluyendo desarrolladores backend y analistas funcionales que interactuaban directamente con los clientes, para garantizar que los requisitos del proyecto estuvieran correctamente alineados y ejecutados. Amplié mi experiencia técnica participando activamente en la gestión de procesos de CI/CD en entornos de desarrollo, preproducción y producción utilizando Jenkins.\\n\\nActualmente, mi función ha evolucionado para incluir la presentación de propuestas técnicas para abordar desafíos existentes de lógica y diseño, la mentoría e incorporación de nuevos miembros del equipo, y servir como recurso técnico clave para las iniciativas de desarrollo frontend dentro de la organización",
+          "bullet_points": [],
+        },
+      },
+      {
         "position": "Desarrollador Frontend",
         "company": "Dimpoint Studios",
         "url": "https://www.fiverr.com/seevt",
         "startDate": "09/2023",
-        "endDate": "",
+        "endDate": "09/2024",
         "stillWorking": "Presente",
         "remote": true,
         "work_type": "Contract",
         "remote_string": "Remote",
 
         "summary": {
-          "main": "En mi puesto actual en Dimpoint Studios, estoy trabajando en un proyecto para renovar completamente e implementar un diseño de Illustrator para el portafolio de la empresa. Mi enfoque está en usar Nuxt y técnicas avanzadas de CSS para desarrollar una interfaz de usuario responsiva y visualmente atractiva. Anteriormente, en esta posición, desempeñé un papel clave en el desarrollo de soluciones utilizando Vue 3, GSAP y Tailwind para el desarrollo de Aizhak Coffee:",
+          "main": "En Dimpoint Studios, desarrollé aplicaciones web utilizando Vue 3, Nuxt.js y arquitectura basada en componentes dentro de un entorno Agile. Mi trabajo incluyó el desarrollo de bibliotecas de componentes reutilizables, la implementación de lógica de mercado, integración de API, la optimización del rendimiento mediante división de código y carga diferida, y el mantenimiento de procesos de CI/CD garantizando al mismo tiempo el cumplimiento de estándares de accesibilidad y calidad del código. Colaboré estrechamente con los equipos de diseño, producto y marketing a través de la planificación de sprints, revisiones de código y ciclos de desarrollo iterativo.",
           "extra": {
             "bullet_points": [
-              "Colaboré estrechamente con el diseñador, el gerente de producto, el equipo de marketing y otros desarrolladores.",
-              "Traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
-              "Implemente animaciones complejas haciendo uso de GSAP y la API de animaciones de Vue"
             ]
           }
         }
@@ -73,7 +85,7 @@
         "startDate": "06/2022",
         "endDate": "08/2023",
         "summary": {
-          "main": "En mi rol en Deduce Data Solutions, fui instrumental en el desarrollo del sitio web de la compañía desde cero, utilizando Vue.js integrado con Nuxt.js y Storyblok CMS. En este proyecto, recibí un diseño de Figma para traducirlo a código y mejorarlo con dinámicas adicionales como bibliotecas de gráficos 3D. Implementé un sistema de paginación para el blog y, utilizando la API de Storyblok y desarrollé un sistema multilingüe para soportar varios idiomas.",
+          "main": "Desarrollé el sitio web completo de la empresa desde cero utilizando Vue.js, Nuxt.js y Storyblok CMS con arquitectura headless. Diseñé funcionalidades personalizadas incluyendo sistemas de paginación dinámica e internacionalización (i18n) para soporte multiidioma, aprovechando la API RESTful de Storyblok para ofrecer una aplicación web escalable y de alto rendimiento. Trabajando a partir de diseños de Figma, convertí las especificaciones de UI/UX en código de producción mientras mejoraba la interacción del usuario mediante la integración de gráficos 3D con Three.js.",
           "extra": {
             "bullet_points": []
           }
@@ -90,13 +102,9 @@
         "startDate": "03/2021",
         "endDate": "01/2022",
         "summary": {
-          "main": "Durante mi tiempo como desarrollador freelance de front-end, dirigí y contribuí a múltiples proyectos que demostraron mi experiencia en tecnologías web modernas y diseño de experiencia de usuario. Los aspectos más destacados de mi trabajo incluyen:",
+          "main": "Desarrollé soluciones web modernas y adaptables para clientes de distintos sectores, con especialización en Vue, React, Firebase y la integración de APIs. Mi trabajo abarcó el desarrollo de aplicaciones full-stack con sincronización de datos en tiempo real, la implementación completa de gestores de contenidos (CMS), migraciones de sitios web y rediseños integrales de UI/UX, con especial atención a la accesibilidad y la coherencia de marca. Asimismo, diseñé sistemas de tematización escalables, desarrollé integraciones con APIs de terceros y construí aplicaciones listas para producción que dan servicio a comunidades activas de usuarios",
           "extra": {
             "bullet_points": [
-              "Renové la marca de un sitio web implementando un nuevo esquema de colores y un sistema de temas CSS. Aseguré una identidad visual coherente y atractiva en todas las páginas y mejoré la experiencia del usuario y la accesibilidad.",
-              "Migré con éxito el sitio web existente de una iglesia a Subsplash CMS, rediseñé y organicé la información según los requisitos del cliente, mejorando la claridad y la navegación del usuario.",
-              "Desarrolle un sistema de eventos, correo electrónico y calendario utilizando las API de Subsplash.",
-              "Desarrollé una aplicación de redes sociales para entusiastas de la comida, enfocandome en la experiencia del usuario. Integré Firebase para una gestión de datos sin problemas y actualizaciones en tiempo real."
             ]
           }
         }
