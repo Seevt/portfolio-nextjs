@@ -53,8 +53,10 @@
 
         "summary": {
           "main": "Me incorporé al equipo como desarrollador frontend, donde mis responsabilidades incluían corregir la lógica de mercado, implementar APIs del backend y utilizar bibliotecas de componentes internas para maquetar vistas y pantallas. A medida que avancé en el puesto, la complejidad de mis tareas aumentó significativamente, lo que finalmente me llevó a oportunidades donde asumí el liderazgo en la coordinación de equipos multifuncionales, incluyendo desarrolladores backend y analistas funcionales que interactuaban directamente con los clientes, para garantizar que los requisitos del proyecto estuvieran correctamente alineados y ejecutados. Amplié mi experiencia técnica participando activamente en la gestión de procesos de CI/CD en entornos de desarrollo, preproducción y producción utilizando Jenkins. Actualmente, mi función ha evolucionado para incluir la presentación de propuestas técnicas para abordar desafíos existentes de lógica y diseño, la mentoría e incorporación de nuevos miembros del equipo, y servir como recurso técnico clave para las iniciativas de desarrollo frontend dentro de la organización.",
-          "bullet_points": []
-        },
+          "extra": {
+            "bullet_points": []
+          }
+        }
       },
       {
         "position": "Desarrollador Frontend",
@@ -70,8 +72,7 @@
         "summary": {
           "main": "En Dimpoint Studios, desarrollé aplicaciones web utilizando Vue 3, Nuxt.js y arquitectura basada en componentes dentro de un entorno Agile. Mi trabajo incluyó el desarrollo de bibliotecas de componentes reutilizables, la implementación de lógica de mercado, integración de API, la optimización del rendimiento mediante división de código y carga diferida, y el mantenimiento de procesos de CI/CD garantizando al mismo tiempo el cumplimiento de estándares de accesibilidad y calidad del código. Colaboré estrechamente con los equipos de diseño, producto y marketing a través de la planificación de sprints, revisiones de código y ciclos de desarrollo iterativo.",
           "extra": {
-            "bullet_points": [
-            ]
+            "bullet_points": []
           }
         }
       },
@@ -104,8 +105,7 @@
         "summary": {
           "main": "Desarrollé soluciones web modernas y adaptables para clientes de distintos sectores, con especialización en Vue, React, Firebase y la integración de APIs. Mi trabajo abarcó el desarrollo de aplicaciones full-stack con sincronización de datos en tiempo real, la implementación completa de gestores de contenidos (CMS), migraciones de sitios web y rediseños integrales de UI/UX, con especial atención a la accesibilidad y la coherencia de marca. Asimismo, diseñé sistemas de tematización escalables, desarrollé integraciones con APIs de terceros y construí aplicaciones listas para producción que dan servicio a comunidades activas de usuarios",
           "extra": {
-            "bullet_points": [
-            ]
+            "bullet_points": []
           }
         }
       }
