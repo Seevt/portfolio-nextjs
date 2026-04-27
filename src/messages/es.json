@@ -37,7 +37,6 @@
       }
     ]
   },
-
   "experience": {
     "title": "Experiencia",
     "jobs": [
@@ -50,13 +49,10 @@
         "remote": true,
         "work_type": "Contract",
         "remote_string": "Remote",
-
         "summary": {
           "main": "Me incorporé al equipo como desarrollador frontend, donde mis responsabilidades incluían corregir la lógica de mercado, implementar APIs del backend y utilizar bibliotecas de componentes internas para maquetar vistas y pantallas. A medida que avancé en el puesto, la complejidad de mis tareas aumentó significativamente, lo que finalmente me llevó a oportunidades donde asumí el liderazgo en la coordinación de equipos multifuncionales, incluyendo desarrolladores backend y analistas funcionales que interactuaban directamente con los clientes, para garantizar que los requisitos del proyecto estuvieran correctamente alineados y ejecutados. Amplié mi experiencia técnica participando activamente en la gestión de procesos de CI/CD en entornos de desarrollo, preproducción y producción utilizando Jenkins. \n\nActualmente, mi función ha evolucionado para incluir la presentación de propuestas técnicas para abordar desafíos existentes de lógica y diseño, la mentoría e incorporación de nuevos miembros del equipo, y servir como recurso técnico clave para las iniciativas de desarrollo frontend dentro de la organización.",
           "extra": {
-            "bullet_points": [
-            
-            ]
+            "bullet_points": []
           }
         }
       },
@@ -70,7 +66,6 @@
         "remote": true,
         "work_type": "Contract",
         "remote_string": "Remote",
-
         "summary": {
           "main": "En Dimpoint Studios, desarrollé aplicaciones web utilizando Vue 3, Nuxt.js y arquitectura basada en componentes dentro de un entorno Agile. Mi trabajo incluyó el desarrollo de bibliotecas de componentes reutilizables, la implementación de lógica de mercado, integración de API, la optimización del rendimiento mediante división de código y carga diferida, y el mantenimiento de procesos de CI/CD garantizando al mismo tiempo el cumplimiento de estándares de accesibilidad y calidad del código. Colaboré estrechamente con los equipos de diseño, producto y marketing a través de la planificación de sprints, revisiones de código y ciclos de desarrollo iterativo.",
           "extra": {
@@ -78,7 +73,6 @@
           }
         }
       },
-
       {
         "position": "Desarrollador Frontend",
         "company": "Deduce Data Solutions",
@@ -94,7 +88,6 @@
           }
         }
       },
-
       {
         "position": "Desarrollador Frontend Junior",
         "company": "Freelance",
@@ -113,7 +106,6 @@
       }
     ]
   },
-
   "education": {
     "title": "Educación",
     "list": [
@@ -133,7 +125,6 @@
       }
     ]
   },
-
   "certificates": {
     "list": [
       {
@@ -159,21 +150,63 @@
   },
   "skills": {
     "title": "Habilidades",
-     "list": [
-        { "name": "Vue/Nuxt.js","level": "Avanzado" },
-        { "name": "React",      "level": "Medio"    },
-        { "name": "TypeScript", "level": "Avanzado" },
-        { "name": "JavaScript", "level": "Master"   },
-        { "name": "HTML",       "level": "Master"   },
-        { "name": "CSS",        "level": "Master"   },
-        { "name": "Tailwind",   "level": "Avanzado" },
-        { "name": "SASS",       "level": "Basico"   },
-        { "name": "Git",        "level": "Avanzado" },
-        { "name": "Copilot",    "level": "Avanzado" },
-        { "name": "OpenAI API", "level": "Basico"   }
-        { "name": "Astro",      "level": "Basico"   },
-        { "name": "Firebase",   "level": "Medio"    },
-        { "name": "StoryBlok CMS", "level": "Medio" }
+    "list": [
+      {
+        "name": "Vue/Nuxt.js",
+        "level": "Avanzado"
+      },
+      {
+        "name": "React",
+        "level": "Medio"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master"
+      },
+      {
+        "name": "HTML",
+        "level": "Master"
+      },
+      {
+        "name": "CSS",
+        "level": "Master"
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado"
+      },
+      {
+        "name": "SASS",
+        "level": "Basico"
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Copilot",
+        "level": "Avanzado"
+      },
+      {
+        "name": "OpenAI API",
+        "level": "Basico"
+      },
+      {
+        "name": "Astro",
+        "level": "Basico"
+      },
+      {
+        "name": "Firebase",
+        "level": "Medio"
+      },
+      {
+        "name": "StoryBlok CMS",
+        "level": "Medio"
+      }
     ]
   },
   "languages": {
@@ -197,28 +230,45 @@
         "name": "Aizhak Coffee",
         "isActive": true,
         "description": "Aizhak's Coffee Experience es una plataforma interactiva para demostrar el conocimiento de Aizhak con el Café",
-        "highlights": ["GSAP", "Vue.js", "Tailwind"],
+        "highlights": [
+          "GSAP",
+          "Vue.js",
+          "Tailwind"
+        ],
         "url": "https://aizhak.com/"
       },
       {
         "name": "Sanctuary Christian Center",
         "isActive": true,
         "description": "Este sitio web destaca la misión, los valores y las actividades comunitarias del centro, invitando a los visitantes a participar en la adoración y la comunión.",
-        "highlights": ["JS", "Subsplash", "Headless CMS"],
+        "highlights": [
+          "JS",
+          "Subsplash",
+          "Headless CMS"
+        ],
         "url": "https://sanctuarycc.com/"
       },
       {
         "name": "Deduce Data Solutions",
         "isActive": true,
         "description": "Recreación de la página web de la compañia. Rediseño y migrado de tecnologias.",
-        "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
+        "highlights": [
+          "Tailwind",
+          "Nuxt",
+          "StoryBlok CMS"
+        ],
         "url": "https://deducedata.solutions"
       },
       {
         "name": "QuizMeGPT",
         "isActive": true,
         "description": "Aplicación Web interactiva que genera pruebas de selección multiple usando IA.",
-        "highlights": ["CSS", "Vue", "IA", "Firebase"],
+        "highlights": [
+          "CSS",
+          "Vue",
+          "IA",
+          "Firebase"
+        ],
         "url": "https://quizmegpt.seevt.dev",
         "github": "https://quizmegpt.seevt.dev"
       },
@@ -226,14 +276,22 @@
         "name": "Svelte Weather",
         "isActive": true,
         "description": "Aplicación Web que hace uso de la API de código abierto 'Weather' para proveer información sobre el clima con fondos interactivos",
-        "highlights": ["Tailwind", "Svelte", "WeatherAPI"],
+        "highlights": [
+          "Tailwind",
+          "Svelte",
+          "WeatherAPI"
+        ],
         "url": "https://weather.seevt.dev"
       },
       {
         "name": "React Tetris",
         "isActive": true,
         "description": "Recreación del juego retro Tetris utilizando React",
-        "highlights": ["Styled Comps", "React", "Game"],
+        "highlights": [
+          "Styled Comps",
+          "React",
+          "Game"
+        ],
         "url": "https://tetris.seevt.dev/"
       }
     ]
