@@ -149,71 +149,22 @@
 
   "skills": {
     "title": "Skills",
-    "list": [
-      {
-        "name": "HTML",
-        "level": "Master"
-      },
-      {
-        "name": "CSS",
-        "level": "Master"
-      },
-      {
-        "name": "JavaScript",
-        "level": "Master"
-      },
-
-      {
-        "name": "TypeScript",
-        "level": "Avanzado"
-      },
-      {
-        "name": "Tailwind",
-        "level": "Avanzado"
-      },
-      {
-        "name": "Vue/Nuxt.js",
-        "level": "Avanzado"
-      },
-
-      {
-        "name": "Svelte/SvelteKit.js",
-        "level": "Medio"
-      },
-      {
-        "name": "React",
-        "level": "Medio"
-      },
-      {
-        "name": "Astro",
-        "level": "Basico"
-      },
-
-      {
-        "name": "Firebase",
-        "level": "Medio"
-      },
-      {
-        "name": "OpenAI API",
-        "level": "Basico"
-      },
-      {
-        "name": "SASS",
-        "level": "Basico"
-      },
-      {
-        "name": "StoryBlok CMS",
-        "level": "Medio"
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado"
-      }
-      {
-        "name":"Copilot",
-        "level":"Avanzado",
-      },
-    ]
+  "list": [
+    { "name": "Vue/Nuxt.js","level": "Avanzado" },
+    { "name": "React",      "level": "Medio"    },
+    { "name": "TypeScript", "level": "Avanzado" },
+    { "name": "JavaScript", "level": "Master"   },
+    { "name": "HTML",       "level": "Master"   },
+    { "name": "CSS",        "level": "Master"   },
+    { "name": "Tailwind",   "level": "Avanzado" },
+    { "name": "SASS",       "level": "Basico"   },
+    { "name": "Git",        "level": "Avanzado" },
+    { "name": "Copilot",    "level": "Avanzado" },
+    { "name": "OpenAI API", "level": "Basico"   }
+    { "name": "Astro",      "level": "Basico"   },
+    { "name": "Firebase",   "level": "Medio"    },
+    { "name": "StoryBlok CMS", "level": "Medio" },
+  ]
   },
   "languages": {
     "title": "Languages",
