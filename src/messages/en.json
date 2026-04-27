@@ -37,22 +37,19 @@
       }
     ]
   },
-
   "experience": {
     "title": "Experience",
     "jobs": [
       {
-         "position": "Sr. Front-end Developer",
+        "position": "Sr. Front-end Developer",
         "company": "Indra",
         "startDate": "09/2024",
         "endDate": "",
         "stillWorking": "Present",
-        
         "summary": {
           "main": "I joined the team as a frontend developer, where my responsibilities included fixing market logic, implementing backend APIs, and utilizing in-house component libraries to layout views and screens. As I progressed in the role, the complexity of my tasks increased significantly, eventually leading to opportunities where I took the lead in coordinating crossfunctional teams, including backend developers and functional analysts who interfaced directly with clients, to ensure project requirements were properly aligned and executed. I expanded my technical expertise by actively participating in CI/CD pipeline management across development, pre-production, and production environments using Jenkins. \n\nCurrently, my role has evolved to include presenting technical proposals for addressing existing logic and design challenges, mentoring and onboarding new team members, and serving as a key technical resource for the frontend development initiatives within the organization.",
           "extra": {
-            "bullet_points": [
-            ]
+            "bullet_points": []
           }
         }
       },
@@ -62,16 +59,13 @@
         "startDate": "09/2023",
         "endDate": "09/2024",
         "stillWorking": "",
-
         "summary": {
           "main": "At Dimpoint Studios, I engineered web applications using Vue 3, Nuxt.js, and component-driven architecture within an Agile environment. My work included developing reusable component libraries, implementing state management and API integration, optimizing performance through code splitting and lazy loading, and maintaining CI/CD pipelines while ensuring accessibility compliance and code quality standards. I collaborated closely with design, product, and marketing teams through sprint planning, code reviews, and iterative development cycles.",
           "extra": {
-            "bullet_points": [
-            ]
+            "bullet_points": []
           }
         }
       },
-
       {
         "position": "Front-end Developer",
         "company": "Deduce Data Solutions",
@@ -85,7 +79,6 @@
           }
         }
       },
-
       {
         "position": "Jr. Front-end Developer",
         "company": "Freelance",
@@ -95,14 +88,12 @@
         "summary": {
           "main": "Delivered modern, responsive web solutions for diverse clients, specializing in Vue, React, Firebase, and API integration. My work spanned full-stack application development with real-time data synchronization, complete CMS implementations, website migrations and comprehensive UI/UX redesigns focused on accessibility compliance and brand consistency. I architected scalable theming systems, developed custom integrations with third-party APIs, and built production-ready applications serving active user communities.",
           "extra": {
-            "bullet_points": [
-            ]
+            "bullet_points": []
           }
         }
       }
     ]
   },
-
   "education": {
     "title": "Education",
     "list": [
@@ -122,7 +113,6 @@
       }
     ]
   },
-
   "certificates": {
     "list": [
       {
@@ -146,25 +136,66 @@
       }
     ]
   },
-
   "skills": {
     "title": "Skills",
-  "list": [
-    { "name": "Vue/Nuxt.js","level": "Avanzado" },
-    { "name": "React",      "level": "Medio"    },
-    { "name": "TypeScript", "level": "Avanzado" },
-    { "name": "JavaScript", "level": "Master"   },
-    { "name": "HTML",       "level": "Master"   },
-    { "name": "CSS",        "level": "Master"   },
-    { "name": "Tailwind",   "level": "Avanzado" },
-    { "name": "SASS",       "level": "Basico"   },
-    { "name": "Git",        "level": "Avanzado" },
-    { "name": "Copilot",    "level": "Avanzado" },
-    { "name": "OpenAI API", "level": "Basico"   }
-    { "name": "Astro",      "level": "Basico"   },
-    { "name": "Firebase",   "level": "Medio"    },
-    { "name": "StoryBlok CMS", "level": "Medio" },
-  ]
+    "list": [
+      {
+        "name": "Vue/Nuxt.js",
+        "level": "Avanzado"
+      },
+      {
+        "name": "React",
+        "level": "Medio"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master"
+      },
+      {
+        "name": "HTML",
+        "level": "Master"
+      },
+      {
+        "name": "CSS",
+        "level": "Master"
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado"
+      },
+      {
+        "name": "SASS",
+        "level": "Basico"
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado"
+      },
+      {
+        "name": "Copilot",
+        "level": "Avanzado"
+      },
+      {
+        "name": "OpenAI API",
+        "level": "Basico"
+      },
+      {
+        "name": "Astro",
+        "level": "Basico"
+      },
+      {
+        "name": "Firebase",
+        "level": "Medio"
+      },
+      {
+        "name": "StoryBlok CMS",
+        "level": "Medio"
+      }
+    ]
   },
   "languages": {
     "title": "Languages",
@@ -187,28 +218,45 @@
         "name": "Aizhak Coffee",
         "isActive": true,
         "description": "Aizhak's Coffee Experience website is an interactive platform designed to showcase Aizhak's expertise in coffee",
-        "highlights": ["GSAP", "Vue.js", "Tailwind"],
+        "highlights": [
+          "GSAP",
+          "Vue.js",
+          "Tailwind"
+        ],
         "url": "https://aizhak.com/"
       },
       {
         "name": "Sanctuary Christian Center",
         "isActive": true,
         "description": "This website highlights the church mission, values, and community activities, inviting visitors to engage in worship and fellowship.",
-        "highlights": ["JS", "Subsplash", "Headless CMS"],
+        "highlights": [
+          "JS",
+          "Subsplash",
+          "Headless CMS"
+        ],
         "url": "https://sanctuarycc.com/"
       },
       {
         "name": "Deduce Data Solutions",
         "isActive": true,
         "description": "Company's Website and Newsletter",
-        "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
+        "highlights": [
+          "Tailwind",
+          "Nuxt",
+          "StoryBlok CMS"
+        ],
         "url": "https://deducedata.solutions/"
       },
       {
         "name": "QuizMeGPT",
         "isActive": true,
         "description": "Interactive Web App that generates quizes about your prefered topics using AI",
-        "highlights": ["CSS", "Vue", "IA", "Firebase"],
+        "highlights": [
+          "CSS",
+          "Vue",
+          "IA",
+          "Firebase"
+        ],
         "url": "https://quizmegpt.seevt.dev",
         "github": "https://quizmegpt.seevt.dev"
       },
@@ -216,14 +264,22 @@
         "name": "Svelte Weather",
         "isActive": true,
         "description": "Weather app with Interactive background",
-        "highlights": ["Tailwind", "Svelte", "WeatherAPI"],
+        "highlights": [
+          "Tailwind",
+          "Svelte",
+          "WeatherAPI"
+        ],
         "url": "https://weather.seevt.dev"
       },
       {
         "name": "React Tetris",
         "isActive": true,
         "description": "Recreating the classic Tetris Game using React",
-        "highlights": ["Styled Comps", "React", "Game"],
+        "highlights": [
+          "Styled Comps",
+          "React",
+          "Game"
+        ],
         "url": "https://tetris.seevt.dev/"
       }
     ]
