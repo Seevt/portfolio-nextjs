@@ -209,6 +209,10 @@
         "name": "Git",
         "level": "Avanzado"
       }
+      {
+        "name":"Copilot",
+        "level":"Avanzado",
+      },
     ]
   },
   "languages": {
